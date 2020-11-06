@@ -8,11 +8,11 @@ RENCANA PEMBELAJARAN KEDEPAN
     # Jquery
     # Node
     # React
-    # Vue
   ^ PHP
     # Laravel
     # Codeigniter
   ^ Database
     # MySQL
     # MongoDB
+    # Oracle
 - Android Developer
