@@ -16,3 +16,10 @@ RENCANA PEMBELAJARAN KEDEPAN
     # MongoDB
     # Oracle
 - Android Developer
+  ^ Kotlin
+  ^ Flutter
+  ^ React Native
+- Python
+  ^ Data Science
+  ^ Arthifical Inteligence
+  ^ Machine Learning
