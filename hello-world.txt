@@ -20,3 +20,6 @@ RENCANA PEMBELAJARAN KEDEPAN
   ^ Flutter
   ^ React Native
 - Python
+  ^ Data Science
+  ^ Arthifical Inteligence
+  ^ Machine Learning
