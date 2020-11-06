@@ -15,4 +15,8 @@ RENCANA PEMBELAJARAN KEDEPAN
     # MySQL
     # MongoDB
     # Oracle
-- Android Developer
+- Android Developer'
+  ^ Kotlin
+  ^ Flutter
+  ^ React Native
+- Python
