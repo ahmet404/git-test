@@ -16,3 +16,8 @@ RENCANA PEMBELAJARAN KEDEPAN
     # MongoDB
     # Oracle
 - Android Developer
+  ^ React Native
+  ^ Apache Cordova
+  ^ Ionic
+- Python
+  ^ OOP
