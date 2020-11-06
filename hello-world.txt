@@ -2,7 +2,16 @@ RENCANA PEMBELAJARAN KEDEPAN
 - Web Programming
   ^ HTML5
   ^ CSS3
+    # Bootstrap
+    # SASS
   ^ JavaScript
+    # Jquery
+    # Node
+    # React
   ^ PHP
-  ^ MySQL
+    # Laravel
+    # Codeigniter
+  ^ Database
+    # MySQL
+    # MongoDB
 - Android Developer
